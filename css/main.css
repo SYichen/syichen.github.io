@@ -16,11 +16,12 @@ nav ul li, footer ul li {
 body ul {
     list-style: none;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 7px;
+    padding: 10px;
 }
 
 body ul li {
-    margin-left: 1em
+    display: inline;
+    margin-left: 20px
 }
 a {
     text-decoration: none;
