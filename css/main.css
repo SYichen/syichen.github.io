@@ -17,6 +17,9 @@ body ul {
     list-style: none;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 7px;
+}
+
+body ul li {
     margin-left: 1em
 }
 a {
