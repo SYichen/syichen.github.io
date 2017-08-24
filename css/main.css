@@ -16,7 +16,8 @@ nav ul li, footer ul li {
 body ul {
     list-style: none;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 5px;
+    padding: 7px;
+    margin-left: 1em
 }
 a {
     text-decoration: none;
